@@ -4,12 +4,11 @@
 Esta imagem apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-
+- Leonard.io para a geração da imagem
 
 ## 🧐 Processo de Criação
 Usei o "pronpt" da ferramenta Leonard.io para escrever e revisar a imagem. O "Leonard.io" foi essencial para criar um avatar , trazendo uma dimensão futurística a imagem. 
+Prompt usado: "Crie um avatar futurista desenvolvendo um programa em Python usando a inteligência artificial"
 
 ## 🚀 Resultados
 A imagem é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
